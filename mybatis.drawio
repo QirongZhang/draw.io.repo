@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-31T14:23:15.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_XeBT0r0WfxxAjdKfnRN" version="20.2.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-31T16:56:44.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="BNyWl7xW0CABkECQCDN4" version="20.2.2" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,10 +88,69 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R6TtUcFRyso47TXTdk93" name="第 3 页">
-    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FsyiMX_0C_qaL5FeJp7--1" value="UserMapper" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;glass=0;sketch=1;hachureGap=4;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="100" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="FsyiMX_0C_qaL5FeJp7--7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;glass=0;sketch=1;hachureGap=4;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="FsyiMX_0C_qaL5FeJp7--1">
+          <mxGeometry x="45" y="80" width="10" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="FsyiMX_0C_qaL5FeJp7--8" value="selectById" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=1;sketch=1;hachureGap=4;fontFamily=Helvetica;fontSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" target="FsyiMX_0C_qaL5FeJp7--7" parent="FsyiMX_0C_qaL5FeJp7--1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FsyiMX_0C_qaL5FeJp7--2" value="MapperProxy" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;glass=0;sketch=1;hachureGap=4;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="100" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="FsyiMX_0C_qaL5FeJp7--9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;glass=0;sketch=1;hachureGap=4;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="FsyiMX_0C_qaL5FeJp7--2">
+          <mxGeometry x="45" y="120" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="FsyiMX_0C_qaL5FeJp7--3" value="MapperMethod" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;glass=0;sketch=1;hachureGap=4;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="450" y="120" width="100" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="FsyiMX_0C_qaL5FeJp7--12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;glass=0;sketch=1;hachureGap=4;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="FsyiMX_0C_qaL5FeJp7--3">
+          <mxGeometry x="45" y="120" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="FsyiMX_0C_qaL5FeJp7--16" value="convertArgs" style="html=1;verticalAlign=bottom;endArrow=block;rounded=1;sketch=1;hachureGap=4;fontFamily=Helvetica;fontSize=14;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="FsyiMX_0C_qaL5FeJp7--3" target="FsyiMX_0C_qaL5FeJp7--14">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="60" y="200" as="sourcePoint" />
+            <mxPoint x="140" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FsyiMX_0C_qaL5FeJp7--17" value="selectList" style="html=1;verticalAlign=bottom;endArrow=block;rounded=1;sketch=1;hachureGap=4;fontFamily=Helvetica;fontSize=14;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="FsyiMX_0C_qaL5FeJp7--3" target="FsyiMX_0C_qaL5FeJp7--5">
+          <mxGeometry x="0.4343" width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="290" as="sourcePoint" />
+            <mxPoint x="130" y="290" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FsyiMX_0C_qaL5FeJp7--4" value="MethodSignature" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;glass=0;sketch=1;hachureGap=4;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="640" y="120" width="100" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="FsyiMX_0C_qaL5FeJp7--14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;glass=0;sketch=1;hachureGap=4;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="FsyiMX_0C_qaL5FeJp7--4">
+          <mxGeometry x="45" y="120" width="10" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="FsyiMX_0C_qaL5FeJp7--5" value="&lt;div style=&quot;text-align: start;&quot;&gt;SqlSession&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;glass=0;sketch=1;hachureGap=4;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="827" y="120" width="100" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="FsyiMX_0C_qaL5FeJp7--15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;glass=0;sketch=1;hachureGap=4;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="FsyiMX_0C_qaL5FeJp7--5">
+          <mxGeometry x="45" y="120" width="10" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="FsyiMX_0C_qaL5FeJp7--10" value="invoke" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=1;sketch=1;hachureGap=4;fontFamily=Helvetica;fontSize=14;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=1.2;exitY=0.116;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="FsyiMX_0C_qaL5FeJp7--9" parent="1" source="FsyiMX_0C_qaL5FeJp7--7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FsyiMX_0C_qaL5FeJp7--13" value="execute" style="html=1;verticalAlign=bottom;endArrow=block;rounded=1;sketch=1;hachureGap=4;fontFamily=Helvetica;fontSize=14;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=-0.15;entryY=0.686;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.3;exitY=0.676;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FsyiMX_0C_qaL5FeJp7--9" target="FsyiMX_0C_qaL5FeJp7--12">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="320" y="320" as="sourcePoint" />
+            <mxPoint x="400" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

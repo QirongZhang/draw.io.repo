@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-10T14:18:43.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="sjC6Gd139SYwzQrbPWef" version="20.2.2" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-08-10T14:19:23.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="OAnC6f9BlbBSM9Wd7ITA" version="20.2.2" type="github" pages="17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1024,7 +1024,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rn6Da1CaZnoxSORVSi6_-1" value="XMLConfig&lt;br&gt;Builder" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="70" width="100" height="610" as="geometry" />
+          <mxGeometry x="215" y="150" width="100" height="610" as="geometry" />
         </mxCell>
         <mxCell id="rn6Da1CaZnoxSORVSi6_-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;sketch=1;" vertex="1" parent="rn6Da1CaZnoxSORVSi6_-1">
           <mxGeometry x="45" y="80" width="10" height="50" as="geometry" />
@@ -1042,7 +1042,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rn6Da1CaZnoxSORVSi6_-2" value="MapperRegistry" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="404" y="70" width="100" height="610" as="geometry" />
+          <mxGeometry x="419" y="150" width="100" height="610" as="geometry" />
         </mxCell>
         <mxCell id="rn6Da1CaZnoxSORVSi6_-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;sketch=1;" vertex="1" parent="rn6Da1CaZnoxSORVSi6_-2">
           <mxGeometry x="45" y="180" width="10" height="50" as="geometry" />
@@ -1060,7 +1060,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rn6Da1CaZnoxSORVSi6_-3" value="MapperAnnotation&lt;br&gt;Builder" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="70" width="100" height="610" as="geometry" />
+          <mxGeometry x="615" y="150" width="100" height="610" as="geometry" />
         </mxCell>
         <mxCell id="rn6Da1CaZnoxSORVSi6_-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;sketch=1;" vertex="1" parent="rn6Da1CaZnoxSORVSi6_-3">
           <mxGeometry x="45" y="250" width="10" height="80" as="geometry" />
@@ -1075,7 +1075,7 @@
           <mxGeometry x="45" y="530" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rn6Da1CaZnoxSORVSi6_-4" value="MapperBuilder&lt;br&gt;Assistant" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="70" width="100" height="610" as="geometry" />
+          <mxGeometry x="805" y="150" width="100" height="610" as="geometry" />
         </mxCell>
         <mxCell id="rn6Da1CaZnoxSORVSi6_-39" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;sketch=1;" vertex="1" parent="rn6Da1CaZnoxSORVSi6_-4">
           <mxGeometry x="45" y="420" width="10" height="80" as="geometry" />
@@ -1084,47 +1084,50 @@
           <mxGeometry x="45" y="530" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rn6Da1CaZnoxSORVSi6_-6" value="parse" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="165" y="135" width="50" height="30" as="geometry" />
+          <mxGeometry x="180" y="215" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rn6Da1CaZnoxSORVSi6_-8" value="mapperElement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="240" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rn6Da1CaZnoxSORVSi6_-23" value="addMappers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="465" y="225" width="90" height="30" as="geometry" />
+          <mxGeometry x="480" y="305" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rn6Da1CaZnoxSORVSi6_-21" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="rn6Da1CaZnoxSORVSi6_-20" parent="1" source="rn6Da1CaZnoxSORVSi6_-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="379" y="250" as="sourcePoint" />
+            <mxPoint x="394" y="330" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rn6Da1CaZnoxSORVSi6_-28" value="addMapper" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="504" y="320" width="80" height="30" as="geometry" />
+          <mxGeometry x="519" y="400" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rn6Da1CaZnoxSORVSi6_-33" value="parseCache&lt;br&gt;parseCacheRef" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="670" y="310" width="110" height="40" as="geometry" />
+          <mxGeometry x="685" y="390" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rn6Da1CaZnoxSORVSi6_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.2;exitY=0.141;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rn6Da1CaZnoxSORVSi6_-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="350" as="targetPoint" />
+            <mxPoint x="655" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rn6Da1CaZnoxSORVSi6_-36" value="参数准备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="665" y="425" width="70" height="30" as="geometry" />
+          <mxGeometry x="680" y="505" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rn6Da1CaZnoxSORVSi6_-38" value="构建mapper" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="665" y="510" width="90" height="30" as="geometry" />
+          <mxGeometry x="680" y="590" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rn6Da1CaZnoxSORVSi6_-40" value="构建Statement&lt;br&gt;添加Configuration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="850" y="470" width="120" height="40" as="geometry" />
+          <mxGeometry x="865" y="550" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rn6Da1CaZnoxSORVSi6_-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rn6Da1CaZnoxSORVSi6_-37" target="rn6Da1CaZnoxSORVSi6_-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rn6Da1CaZnoxSORVSi6_-43" value="构建Statement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="860" y="600" width="100" height="30" as="geometry" />
+          <mxGeometry x="875" y="680" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rn6Da1CaZnoxSORVSi6_-45" value="解析同名XML" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="600" width="100" height="30" as="geometry" />
+          <mxGeometry x="545" y="680" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rn6Da1CaZnoxSORVSi6_-46" value="&lt;h3 style=&quot;box-sizing: inherit; font-family: Lato, &amp;quot;Helvetica Neue&amp;quot;, Arial, Helvetica, sans-serif; line-height: 1.28571em; margin: calc(2rem - 0.142857em) 0px 1rem; font-weight: 700; padding: 0px; font-size: 1.28571rem; color: rgba(0, 0, 0, 0.87); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(247, 247, 247); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; id=&quot;注解配置解析&quot;&gt;注解配置解析&lt;/h3&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="160" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

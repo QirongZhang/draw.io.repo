@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-17T10:14:05.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="hVZnARKhOgLQujLEv_AE" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-17T10:19:10.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="z3hALk1LhCD7mH5QLVh8" version="20.2.3" type="github" pages="2">
   <diagram id="u8Yng3PtaQs-9w0VIbBT" name="第 1 页">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,27 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="k8LIPY5yK9W-XJEOgbBG-1" value="校验&lt;font size=&quot;1&quot;&gt;本地业务是否可以销户&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k8LIPY5yK9W-XJEOgbBG-2" value="校验核心是否可以销户" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k8LIPY5yK9W-XJEOgbBG-3" value="校验是否需要延期销户" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="280" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k8LIPY5yK9W-XJEOgbBG-4" value="校验贷款" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="280" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k8LIPY5yK9W-XJEOgbBG-5" value="校验是否转到AM&amp;nbsp;Team&amp;nbsp;Pool" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="280" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k8LIPY5yK9W-XJEOgbBG-6" value="提交审批单" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="280" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k8LIPY5yK9W-XJEOgbBG-7" value="关卡关账户" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="280" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

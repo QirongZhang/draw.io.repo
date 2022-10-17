@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T07:56:55.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42" etag="s--VtqWl_U_h2tkJBOfK" version="20.4.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-10-17T08:28:08.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42" etag="Fpx_i1xdRDa7lzQK-Hba" version="20.4.0" type="github" pages="11">
   <diagram id="ZZcLb6MMou_76X6HT6mN" name="第 1 页">
     <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,12 +164,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KGM9_AeDLAVSloQzlJdl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;strokeColor=#FF6392;fontColor=#5AA9E6;" parent="1" source="KGM9_AeDLAVSloQzlJdl-9" target="KGM9_AeDLAVSloQzlJdl-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KGM9_AeDLAVSloQzlJdl-9" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" parent="1" vertex="1">
-          <mxGeometry x="350" y="320" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="KGM9_AeDLAVSloQzlJdl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;strokeColor=#FF6392;fontColor=#5AA9E6;" parent="1" source="KGM9_AeDLAVSloQzlJdl-10" target="7MvQi5m_UWZ9zkdKK4vg-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="990" as="targetPoint" />
@@ -323,6 +317,29 @@
             <mxPoint x="500" y="1460" as="sourcePoint" />
             <mxPoint x="550" y="1410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7DDEdXjsEpo1gAgh_LWz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;" edge="1" parent="1" source="7DDEdXjsEpo1gAgh_LWz-1" target="7DDEdXjsEpo1gAgh_LWz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7DDEdXjsEpo1gAgh_LWz-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="1">
+          <mxGeometry x="350" y="160" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7DDEdXjsEpo1gAgh_LWz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;" edge="1" parent="1" source="7DDEdXjsEpo1gAgh_LWz-2" target="KGM9_AeDLAVSloQzlJdl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7DDEdXjsEpo1gAgh_LWz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;" edge="1" parent="1" source="7DDEdXjsEpo1gAgh_LWz-2" target="7MvQi5m_UWZ9zkdKK4vg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7DDEdXjsEpo1gAgh_LWz-8" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="7DDEdXjsEpo1gAgh_LWz-7">
+          <mxGeometry x="-0.709" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7DDEdXjsEpo1gAgh_LWz-2" value="是否是&lt;br&gt;【QA Checker1】, &lt;br&gt;【Operate Maker】, &lt;br&gt;【Appointment】&lt;br&gt;&amp;nbsp; 【Outreach Caller】&lt;br&gt;节点" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="277" y="250" width="196" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7DDEdXjsEpo1gAgh_LWz-5" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="360" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
